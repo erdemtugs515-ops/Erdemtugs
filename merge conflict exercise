@@ -1,0 +1,3 @@
+echo "Line 1: Hello from main branch" > conflict.txt
+git add conflict.txt
+git commit -m "Initial commit on main"
